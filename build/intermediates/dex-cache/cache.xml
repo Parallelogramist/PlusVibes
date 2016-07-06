@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="c481d5aa2f171c4a49a803db85885449ce6c22f2">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_19d8f309d21f57cd5fc813649d73c1834f8ed33c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="5b782e773c576bbbb2f1b02803ae0f3eaa2169d5">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0fe46d63d8a4c303fbeb16e428a69e487ecee1f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.0.3/81994bbc1bd46454616b733bf31fe4a22018e056/firebase-client-jvm-2.0.3.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="81994bbc1bd46454616b733bf31fe4a22018e056">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.0.3_e5b32e3988bf4b82d2507c702ba9aee72dab52c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_360838b95eb63a9d3c09286d03605da5d0f4c0a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_6c912d3cc213aa09555eaa320f45c1d53b5d80a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.0.3/1665cb30372ae93a46d9800adf5751bc48fa202f/firebase-client-android-2.0.3.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="1665cb30372ae93a46d9800adf5751bc48fa202f">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.0.3_b0d32d3dc7f2c0d2ab96aba97ff864c47716678d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_ff87a0d88129c96d0e9e8ed133d8f3009cfb9425/classes.dex" />
+    </item>
+    <item
+        jar="/Users/JessicaGolubev/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="/Users/JessicaGolubev/Downloads/AndroidChat-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.10_c271dfbadba3b52695948cff7470b892df154751/classes.dex" />
+    </item>
+
+</items>
